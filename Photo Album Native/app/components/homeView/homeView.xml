@@ -1,3 +1,8 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd">
-	<!-- UI Declaration -->
+<GridLayout rows="*, auto">
+<ListView row="0">
+</ListView>
+<Button row="1">
+</Button>
+</GridLayout>
 </Page>
